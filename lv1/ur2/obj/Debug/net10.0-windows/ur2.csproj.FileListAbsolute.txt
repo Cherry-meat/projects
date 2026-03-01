@@ -1,0 +1,16 @@
+C:\Users\olabo\source\repos\ur2\bin\Debug\net10.0-windows\ur2.exe
+C:\Users\olabo\source\repos\ur2\bin\Debug\net10.0-windows\ur2.deps.json
+C:\Users\olabo\source\repos\ur2\bin\Debug\net10.0-windows\ur2.runtimeconfig.json
+C:\Users\olabo\source\repos\ur2\bin\Debug\net10.0-windows\ur2.dll
+C:\Users\olabo\source\repos\ur2\bin\Debug\net10.0-windows\ur2.pdb
+C:\Users\olabo\source\repos\ur2\obj\Debug\net10.0-windows\ur2.Form1.resources
+C:\Users\olabo\source\repos\ur2\obj\Debug\net10.0-windows\ur2.csproj.GenerateResource.cache
+C:\Users\olabo\source\repos\ur2\obj\Debug\net10.0-windows\ur2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olabo\source\repos\ur2\obj\Debug\net10.0-windows\ur2.AssemblyInfoInputs.cache
+C:\Users\olabo\source\repos\ur2\obj\Debug\net10.0-windows\ur2.AssemblyInfo.cs
+C:\Users\olabo\source\repos\ur2\obj\Debug\net10.0-windows\ur2.csproj.CoreCompileInputs.cache
+C:\Users\olabo\source\repos\ur2\obj\Debug\net10.0-windows\ur2.dll
+C:\Users\olabo\source\repos\ur2\obj\Debug\net10.0-windows\refint\ur2.dll
+C:\Users\olabo\source\repos\ur2\obj\Debug\net10.0-windows\ur2.pdb
+C:\Users\olabo\source\repos\ur2\obj\Debug\net10.0-windows\ur2.genruntimeconfig.cache
+C:\Users\olabo\source\repos\ur2\obj\Debug\net10.0-windows\ref\ur2.dll
